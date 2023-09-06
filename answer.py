@@ -1,4 +1,4 @@
-salam
+#it is required plenty of works
 import random
 def answer_range(answer, lower_r, upper_r):
 
